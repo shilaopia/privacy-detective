@@ -1,0 +1,8 @@
+openpyxl
+matplotlib
+numpy
+python-docx
+python-pptx
+PyMuPDF
+pdfplumber
+anthropic
